@@ -1,0 +1,3 @@
+<?php
+
+(new TatooRepliesNotify)->send();

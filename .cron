@@ -1,0 +1,2 @@
+php ~/ngn-env/projects/tatoo/cmd.php sendReplies
+php ~/ngn-env/projects/tatoo/cmd.php sendOrders

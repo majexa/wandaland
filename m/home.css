@@ -1,0 +1,63 @@
+body {
+background: #808080;
+}
+.container {
+text-align: center;
+}
+.container .cont {
+text-align: left;
+}
+.container #about p {
+margin-bottom: 15px;
+}
+
+.hHeader {
+background: #fff;
+}
+.hHeader .authCont {
+margin-top: -330px;
+z-index: 100;
+}
+.footer .container {
+padding: 30px 0 0 0;
+}
+.largeTitle {
+padding: 20px 0;
+}
+.homeBtns {
+margin-top: 290px;
+margin-bottom: 0;
+padding-left: 60px;
+text-align: left;
+}
+.homeBtns a {
+padding: 10px 20px 0 100px;
+display: block;
+float: left;
+width: 130px;
+height: 130px;
+margin: 0 10px 0 0;
+text-decoration: none;
+color: #888;
+background: 30px 35px no-repeat;
+}
+.homeBtns a h2 {
+color: #000;
+
+}
+.homeBtns a.client {
+background-image: url(/m/img/home/client.png);
+}
+.homeBtns a.master {
+background-image: url(/m/img/home/master.png);
+}
+.homeBtns a.masters {
+background-image: url(/m/img/home/masters.png);
+}
+.homeBtns a:hover h2 {
+text-decoration: underline;
+}
+.homeBtns a span {
+display: block;
+margin-top: 25px;
+}
